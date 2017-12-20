@@ -1,0 +1,101 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+<<<<<<< HEAD
+A: I felt quite proud with much of the array sequences I was able to build with the amount
+   of code that I ended up using.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: My ‘get’ method wasn’t very efficient because I used a loop to find the index of
+   the item. I could have split the array and found the front or end of it. I struggled 
+   figuring out a way to implement this method and so I was forced to resort to the 
+   inefficient iterative method. 
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: I think I should have thoroughly ensured I understood what an ArrayDeque was, which
+   would have made the implementation a bit easier than it was.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: 
+=======
+A:
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A:
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A:
+>>>>>>> 14cab644a1ef004f3c39443420437b851cda5685
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+<<<<<<< HEAD
+A: I wished I had used more helper functions rather than trying to put all the code into 
+   one method.
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: 
+=======
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A:
+>>>>>>> 14cab644a1ef004f3c39443420437b851cda5685
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+<<<<<<< HEAD
+A: 
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A: As previously stated, I wish I had made sure I knew what I was trying to build before
+   I tried building it.
+=======
+A:
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+>>>>>>> 14cab644a1ef004f3c39443420437b851cda5685
+
+-----
+
+Meta:
+
+Q: This is the first time we've tried something like this. Did you like this design review process? Anything we should do differently next time?
+
+<<<<<<< HEAD
+A: I really like this process a lot because I was able to get an outside perspective 
+   about the redundancies and inefficiencies in my code, and we could also just see how 
+   others thought about the problem. I don’t really have any changes to make.
+   to make to the process, 
+=======
+A: 
+>>>>>>> 14cab644a1ef004f3c39443420437b851cda5685
